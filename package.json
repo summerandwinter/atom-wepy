@@ -1,6 +1,6 @@
 {
   "name": "language-tencent-wepy",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "WePY component support in Atom",
   "repository": "https://github.com/summerandwinter/atom-wepy",
   "license": "MIT",
